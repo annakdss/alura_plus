@@ -8,7 +8,7 @@ O projeto foi construído como uma demonstração da aplicação de tecnologias 
 </p>
 
 <p align="center">
-     <a href="https://alura-plus-xi-mocha.vercel.app/">📱 Visit this Project</a>
+     <a href="https://alura-plus-xi-mocha.vercel.app/">📱 Visite o projeto</a>
 </p>
 
 <h2 id="layout">🎨 Layout</h2>
@@ -47,3 +47,4 @@ O projeto foi construído como uma demonstração da aplicação de tecnologias 
 - [CSS](https://github.com)
 - [FRAMEWORK](https://github.com)
 - [GITHUB](https://github.com)
+- [VISUAL STUDIO CODE](https://github.com)
