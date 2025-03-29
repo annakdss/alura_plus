@@ -14,8 +14,11 @@ O projeto foi construído como uma demonstração da aplicação de tecnologias 
 <h2 id="layout">🎨 Layout</h2>
 
 <p align="center">
-    <img src="alura plus 1.png" width="400px">
-    <img src="../.github/example.png" alt="Image Example" width="400px">
+    <img src="alura plus 1.png" width="780px" alt="Imagem 1">
+</p>
+
+<p align="center"> 
+    <img src="alura plus 2.png" width="780px" alt="Imagem 2">
 </p>
 
 <h2 id="technologies">💻 Technologies</h2>
