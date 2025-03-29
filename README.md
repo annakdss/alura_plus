@@ -21,6 +21,13 @@ O projeto foi construído como uma demonstração da aplicação de tecnologias 
     <img src="alura plus 2.png" width="780px" alt="Imagem 2">
 </p>
 
+<p align="center"> 
+    <img src="alura plus 3.png" width="780px" alt="Imagem 3">
+
+
+
+
+
 <h2 id="technologies">💻 Technologies</h2>
 
 - list of all technologies you used
