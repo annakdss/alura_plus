@@ -30,24 +30,20 @@ O projeto foi construído como uma demonstração da aplicação de tecnologias 
 </p> 
 
 <p align="center">
-    <img src="" width="780px" alt="Imagem 5">
+    <img src="alura plus 5.png" width="780px" alt="Imagem 5">
+</p>   
 
+<h2 id="technologies">💻 Tecnologias</h2>
 
+- HTML
+- CSS
+- FRAMEWORKS
 
+<h2 id="started">🚀 Começando</h2>
 
+<h3>Pré Requisitos</h3>
 
-<h2 id="technologies">💻 Technologies</h2>
-
-- list of all technologies you used
-- react
-- styled components
-- another example
-
-<h2 id="started">🚀 Getting started</h2>
-
-<h3>Prerequisites</h3>
-
-Here you list all prerequisites necessary for running your project. For example:
-
-- [NodeJS](https://github.com/)
-- [Git 2](https://github.com)
+- [HTML](https://github.com/)
+- [CSS](https://github.com)
+- [FRAMEWORK](https://github.com)
+- [GITHUB](https://github.com)
