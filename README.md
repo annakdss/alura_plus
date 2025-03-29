@@ -23,6 +23,14 @@ O projeto foi construído como uma demonstração da aplicação de tecnologias 
 
 <p align="center"> 
     <img src="alura plus 3.png" width="780px" alt="Imagem 3">
+</p>
+
+<p align="center">
+    <img src="alura plus 4.png" width="780px" alt="Imagem 4">
+</p> 
+
+<p align="center">
+    <img src="" width="780px" alt="Imagem 5">
 
 
 
